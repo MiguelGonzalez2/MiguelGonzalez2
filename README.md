@@ -12,5 +12,5 @@ Check out https://miguelgg.com/about/
 
 ## Kaggle
 <p align="center">
-<a href="kaggle.com/miguelgonzalez2"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/miguelgonzalez2/competition" /></a>
+<a href="https://kaggle.com/miguelgonzalez2"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/miguelgonzalez2/competition" /></a>
 </p>
