@@ -1,5 +1,5 @@
 ## About me
-Check out https://miguelgg.com/about/
+Check out https://miguelgg.com/
 
 ## Links
 
